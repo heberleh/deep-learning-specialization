@@ -1,6 +1,6 @@
 # Deep Learning Specialization - Jupyter Notebooks
 
-Tensorflow, Neural Networks and Deep Learning in Python exercises as part of my specialization in Deep Learning on Coursera, offered by **deeplearning.ai**.
+TensorFlow, Neural Networks and Deep Learning in Python exercises as part of my specialization in Deep Learning on Coursera, offered by **deeplearning.ai**.
 
 
 ## Course 1 - Neural Networks and Deep Learning
